@@ -1,0 +1,32 @@
+id,Week,Day,Match,Game,Blue,Red,Winner,blue_ban_1,blue_ban_2,blue_ban_3,blue_ban_4,blue_pick_1,blue_pick_2,blue_pick_3,blue_pick_4,blue_pick_5,red_ban_1,red_ban_2,red_ban_3,red_ban_4,red_pick_1,red_pick_2,red_pick_3,red_pick_4,red_pick_5
+1,1,1,1,1,Buriram United,Devita,Devita,Sephera,Baldum,Xeniel,Raz,D'Arcy,Ryoma,Y'bneth,Lu Bu,Mina,Hayate,Florentino,Capheny,Omen,Tel'Annas,TeeMee,Nakroth,Liliana,Superman
+2,1,1,1,2,Buriram United,Devita,Devita,D'Arcy,Sephera,Tulen,Natalya,Baldum,Riktor,Valhein,Quillen,The Flash,Hayate,Florentino,Kriknak,Rourke,Capheny,Murad,Omen,Chaugnar,Jinna
+3,1,1,2,1,AHQ Esports Club,Radiant,AHQ Esports Club,D'Arcy,Elsu,Quillen,D'Arcy,Riktor,Ryoma,TeeMee,Zill,Capheny,Hayate,Sephera,Maloch,Yorn,Baldum,Tel'Annas,Omen,Liliana,Zepyhs
+4,1,1,2,2,AHQ Esports Club,Radiant,AHQ Esports Club,Baldum,Sephera,Yorn,Tel'Annas,Elsu,Skud,Y'bneth,Lindis,Natalya,Hayate,D'Arcy,Quillen,Murad,Tulen,Florentino,Thane,Rourke,Zuka
+5,1,1,3,1,Daivo Ravana,Ari FC Esport,Daivo Ravana,Tel'Annas,Ryoma,Capheny,Valhein,Hayate,D'Arcy,Baldum,Superman,Tulen,Sephera,Murad,Skud,Riktor,Nakroth,Florentino,Chaugnar,Liliana,Lindis
+6,1,1,3,2,Ari FC Esport,Daivo Ravana,Ari FC Esport,Murad,Florentino,Kil'Groth,Roxie,Sephera,Capheny,Baldum,Kriknak,Riktor,Hayate,TeeMee,Ryoma,D'Arcy,Tel'Annas,Nakroth,The Flash,Omen,Thane
+7,1,1,3,3,Daivo Ravana,Ari FC Esport,Daivo Ravana,Hayate,Tel'Annas,The Flash,Tulen,Murad,Roxie,Yorn,Lumburr,Raz,Sephera,Florentino,Liliana,Cresht,Ryoma,TeeMee,Zephys,Elsu,Marja
+8,1,1,4,1,Evos Debut,Bazaar Gaming,Bazaar Gaming,Baldum,D'Arcy,Nakroth,Tel'Annas,Hayate,Elsu,Y'bneth,Superman,Quillen,Riktor,TeeMee,Florentino,Murad,Ryoma,Sephra,Veres,Kriknak,Skud
+9,1,1,4,2,Bazaar Gaming,Evos Debut,Bazaar Gaming,Sephera,Florentino,Xeniel,Kil'Groth,TeeMee,D'Arcy,Tel'Annas,Nakroth,Taara,Hayate,Elsu,Riktor,Omen,Baldum,Tulen,Murad,Yorn,Lu Bu
+10,1,1,5,1,Devita,Daivo Ravana,Devita,Baldum,Murad,Riktor,Tel'Annas,Sephera,Ryoma,D'Arcy,Kil'Groth,Maloch,Hayate,Florentino,Veres,Y'bneth,Nakroth,TeeMee,The Flash,Yorn,Taara
+11,1,1,5,2,Daivo Ravana,Devita,Daivo Ravana,TeeMee,Nakroth,Kriknak,Florentino,Murad,Tulen,Capheny,Roxie,Cresht,Hayate,Sephera,Thane,Arum,Baldum,Tel'Annas,Riktor,Liliana,Quillen
+12,1,1,5,3,Devita,Daivo Ravana,Devita,Baldum,Sephera,Arum,Riktor,Florentino,Nakroth,TeeMee,Valhein,Veres,Hayate,Capheny,The Flash,Tulen,Ryoma,Tel'Annas,D'Arcy,Thane,Marja
+13,1,1,6,1,Bazaar Gaming,AHQ Esports Club,AHQ Esports Club,Florentino,Kil'Groth,Thane,Murad,Sephera,Baldum,Yorn,Airi,Kriknak,Hayate,D'Arcy,Tulen,Veres,Elsu,Riktor,The Flash,Y'bneth,Rourke
+14,1,1,6,2,AHQ Esports Club,Bazaar Gaming,AHQ Esports Club,Riktor,D'Arcy,Liliana,The Flash,Baldum,Arum,Tulen,Capheny,Wonder Woman,Hayate,Sephera,Murad,Kriknak,Skud,Florentino,Ryoma,Lumburr,Mganga
+15,1,2,7,1,Devita,AHQ Esports Club,Devita,Sephera,Elsu,Quillen,Lindis,Murad,Baldum,Tel'Annas,Xeniel,Krixi,Hayate,D'Arcy,Liliana,Florentino,Rikor,Y'bneth,Tulen,Wisp,Nakroth
+16,1,2,7,2,AHQ Esports Club,Devita,AHQ Esports Club,Rikor,D'Arcy,Capheny,TeeMee,Elsu,Rourke,Florentino,Krixi,Xeniel,Hayate,Baldum,Raz,Sephera,Nakroth,The Flash,Arum,Annette,The Joker
+17,1,2,7,3,Devita,AHQ Esports Club,Devita,Baldum,Murad,Tel'Annas,Baldum,Sephera,Elsu,Y'bneth,Max,Zephys,Hayate,D'Arcy,Superman,Florentino,TeeMee,Capheny,The Flash,Wonder Woman,Veres
+18,1,2,7,4,AHQ Esports Club,Devita,AHQ Esports Club,Rikor,Florentino,TeeMee,Valhein,Hayate,Murad,Liliana,Maloch,Annette,Sephera,Baldum,Chaugnar,Arduin,D'Arcy,Ryoma,Kil'Groth,Thane,Capheny
+19,1,2,7,5,Devita,AHQ Esports Club,Devita,Baldum,Sephera,Tel'Annas,Yorn,Valhein,Florentino,TeeMee,Rikor,Wonder Woman,Hayate,Quillen,Tulen,Nakroth,Arduin,D'Arcy,Skud,Raz,Ryoma
+20,1,2,8,1,Daivo Ravana,Bazaar Gaming,Daivo Ravana,Elsu,Tulen,Veres,Nakroth,Florentino,Baldum,D'Arcy,Ryoma,Capheny,Hayate,Sephera,Murad,Xeniel,Arum,Rikor,The Flash,Tel'Annas,Illumia
+21,1,2,8,2,Bazaar Gaming,Daivo Ravana,Bazaar Gaming,Elsu,Murad,Tel'Annas,Rourke,Sephera,Veres,Superman,Y'bneth,Lindis,Hayate,Florentino,Ryoma,Capheny,Thane,Tulen,Roxie,Quillen,Valhein
+22,1,2,8,3,Daivo Ravana,Bazaar Gaming,Bazaar Gaming,Florentino,D'Arcy,Capheny,Baldum,Murad,Cresht,Veres,Y'bneth,Lindis,Hayate,Sephera,Kil'Groth,Liliana,Nakroth,TeeMee,Tulen,Elsu,Max
+23,1,2,9,1,Bazaar Gaming,AHQ Esports Club,Bazaar Gaming,Elsu,Sephera,Arum,Murad,TeeMee,Yorn,Florentino,Kil'Groth,Kriknak,Hayate,Quillen,Tulen,Raz,Y'bneth,Tel'Annas,The Flash,Skud,Rourke
+24,1,2,9,2,AHQ Esports Club,Bazaar Gaming,AHQ Esports Club,Baldum,Rikor,Lindis,Nakroth,Elsu,Xeniel,Tulen,Murad,Kil'Groth,Hayate,Sephera,Quillen,Florentino,Superman,Marja,Liliana,Alice,Zephys
+25,1,2,9,3,AHQ Esports Club,Bazaar Gaming,AHQ Esports Club,Rikor,Elsu,The Flash,Illumia,Sephera,Baldum,Yorn,Lu Bu,Kriknak,Hayate,Veres,Nakroth,Florentino,Ryoma,Y'bneth,D'Arcy,Valhein,Roxie
+26,1,2,9,4,Bazaar Gaming,AHQ Esports Club,AHQ Esports Club,Rikor,Florentino,Raz,Tara,Elsu,Annette,Maloch,Murad,Xeniel,Hayate,Sephera,Nakroth,The Flash,Capheny,Thane,D'Arcy,Max,Aleister
+27,1,2,10,1,Devita,AHQ Esports Club,AHQ Esports Club,Baldum,Elsu,Y'bneth,TeeMee,D'Arcy,Ryoma,Chaugnar,Skud,Valhein,Hayate,Sephera,Nakroth,Rikor,Florentino,Tel'Annas,Murad,Xeniel,Liliana
+28,1,2,10,2,Devita,AHQ Esports Club,AHQ Esports Club,Sephera,Elsu,Rikor,Kil'Groth,Baldum,Murad,Capheny,Tulen,Max,Hayate,Tel'Annas,Florentino,Superman,Thane,Yorn,Nakroth,Tara,Aleister
+29,1,2,10,3,Devita,AHQ Esports Club,Devita,Sephera,Elsu,D'Arcy,Nakroth,TeeMee,Florentino,Tel'Annas,Veres,Zill,Hayate,Rikor,Liliana,The Flash,Baldum,Ryoma,Arum,Tulen,Rourke
+30,1,2,10,4,AHQ Esports Club,Devita,AHQ Esports Club,Rikor,Sephera,Liliana,Wonder Woman,TeeMee,Valhein,The Flash,Maloch,Kriknak,Hayate,Elsu,D'Arcy,Zephys,Yorn,Y'bneth,Kil'Groth,Krixi,Nakroth
+31,1,2,10,5,Devita,AHQ Esports Club,AHQ Esports Club,Elsu,D'Arcy,Quillen,Marja,Rikor,Xeniel,Lindis,Natalya,Grakk,Hayate,Sephera,Liliana,Kriknak,Y'bneth,Kil'Groth,Raz,Wonder Woman,Annette
